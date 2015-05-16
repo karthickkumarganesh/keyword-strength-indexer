@@ -1,0 +1,19 @@
+body{
+	margin:auto;
+}
+
+.error{
+	padding:15px;
+}
+table, tr, td {
+	border: none !important;
+}
+td button {
+	width: 60px;
+	height: 60px;
+	text-transform: uppercase;
+	border: none;
+}
+span {
+	display: block;
+}
